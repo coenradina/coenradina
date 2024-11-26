@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Astrid Coenrad
+# 👋 Hey there, I'm Astrid
 
 ## 🚀 About Me
 - 💻 I'm a Software Engineer & Education Project Manager
