@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Astrid
 
 ## 🚀 About Me
-- 💻 I'm a Software Engineer & Education Project Manager
+- 💻 I'm a Software Engineer & Education Program Manager
 - 🌱 Currently leading STEM education projects at Generation Girl
 - 🔭 Working on curriculum development and some web & app projects on the side
 - 🎯 2024 Goals: Expanding educational programs and enhancing tech-based learning platforms
