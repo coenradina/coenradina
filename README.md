@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey there, I'm Astrid Coenrad
 
-<!--
-**coenradina/coenradina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I'm a Software Engineer & Education Project Manager
+- 🌱 Currently leading STEM education projects at Generation Girl
+- 🔭 Working on curriculum development and some web & app projects on the side
+- 🎯 2024 Goals: Expanding educational programs and enhancing tech-based learning platforms
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages & Tools
+- ☕ Java
+- 🤖 Kotlin
+- 💛 JavaScript
+- 🌐 HTML/CSS
+- 🐍 Python
+- 📊 SQL
+  
+### Frameworks & Architecture
+- 🏗️ MVVM Architecture
+- 🧹 Clean Architecture
+- 📱 Android Development
+  
+### Development Tools
+- 🔄 Git & GitHub
+- 📋 Jira
+- 💻 Android Studio
+- 👩🏻‍💻 VS Code
+
+
+## 🌐 Connect With Me
+- 📫 How to reach me: inquiries.astridcoenrad@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/coenrad
+- 👩🏻‍💻 Web: https://aastr.id
+- 📍 Location: South Tangerang City, Indonesia
+
+⚡ My brain runs on both binary and brushstrokes 🖥️🎨 Let's connect!
